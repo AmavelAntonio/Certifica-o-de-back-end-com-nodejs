@@ -3,7 +3,8 @@
 	"keywords": [ "descriptive", "related", "words" ],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0", 
+		"package-name": "version"
 	},
 	"main": "server.js",
 	"scripts": {
