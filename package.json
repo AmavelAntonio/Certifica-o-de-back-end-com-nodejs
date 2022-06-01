@@ -14,5 +14,6 @@
 		"url": "https://idontknow/todo.git"
 	}, 
 
-	"description": "Um projecto para melhorar às minha habilidade no desenvolvimento back end"
+	"description": "Um projecto para melhorar às minha habilidade no desenvolvimento back end",
+	"license": "MIT"
 }
