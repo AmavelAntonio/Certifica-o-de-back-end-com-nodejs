@@ -1,5 +1,6 @@
 {
 	"author": "Amavel Antóio",
+	"keywords": [ "descriptive", "related", "words" ],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
@@ -11,5 +12,7 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
+	}, 
+
+	"description": "Um projecto para melhorar às minha habilidade no desenvolvimento back end"
 }
